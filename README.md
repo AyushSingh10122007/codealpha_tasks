@@ -1,45 +1,36 @@
-# QuickBite – Food Delivery App Wireframe
+# QuickBite — Low-Fidelity Wireframing Project
 
-## Task 1: Wireframing & Low-Fidelity Design
+## Task
+**Task 1: Wireframing & Low-Fidelity Design**
 
-### Project Description
-QuickBite is a simple food delivery mobile application designed using low-fidelity wireframes. The project shows the basic layout and user flow of a food delivery app.
+Create wireframes for a mobile app or website and submit them in Figma/Adobe XD.
 
-The wireframes focus on the structure of the application rather than colors, detailed graphics, or final UI design.
+## Project
+A simple **food delivery mobile app** called **QuickBite**.
 
-## Objective
-The main objective of this project is to create a simple and easy-to-understand wireframe for a food delivery application.
+## Screens Included
+1. Welcome / Login
+2. Home
+3. Restaurant Menu
+4. Cart & Checkout
+5. Order Tracking
 
-## Main Features
-- User Welcome/Login screen
-- Food delivery home screen
-- Restaurant and food search
-- Food categories
-- Restaurant menu
-- Add food to cart
-- Cart and checkout
-- Delivery address
-- Order confirmation
-- Order tracking
+## How to View
+Open `index.html` in Google Chrome, Microsoft Edge, or any browser.
 
-## Screens Designed
-1. Welcome / Login Screen
-2. Home Screen
-3. Restaurant Menu Screen
-4. Cart & Checkout Screen
-5. Order Tracking Screen
+## How to Upload to GitHub
+1. Go to GitHub and sign in.
+2. Click **New repository**.
+3. Repository name: `quickbite-low-fidelity-wireframe`
+4. Select **Public** (or Private if your teacher requires it).
+5. Create the repository.
+6. Click **Add file → Upload files**.
+7. Upload `index.html`, `style.css`, and `README.md`.
+8. Click **Commit changes**.
+9. Copy the repository URL and submit it.
 
-## Technology Used
-- HTML
-- CSS
-- Figma / Adobe XD for wireframe design
-- GitHub for project submission
+## Figma / Adobe XD
+The five screens are planned as low-fidelity mobile wireframes. For the exact assignment requirement, recreate these screens in Figma or Adobe XD using rectangles, text boxes, buttons, image placeholders, and simple navigation arrows.
 
-## Project Structure
-
-```text
-QuickBite-Low-Fidelity-Wireframe/
-│
-├── index.html
-├── style.css
-└── README.md
+## Student
+Name: Ayush Singh Kalakoti
